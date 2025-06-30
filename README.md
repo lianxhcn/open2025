@@ -14,19 +14,17 @@
 
     <p align="center">
       <img 
-        src="https://s21.ax1x.com/2025/06/29/pVnyNkD.jpg" 
-        style="max-width: 155px;  width: auto; height: auto;  "
-      />
+        <img style="width: 150px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/pVnyNkD.jpg">
     </p>
+
 
   - **方式二**：关注公众号“君泉计量”，君泉计量的视频号同步直播
 
     <p align="center">
       <img 
-        src="https://s21.ax1x.com/2025/06/29/pVn6PAO.jpg" 
-        style="max-width: 155px;  width: auto; height: auto;"
-      />
+        <img style="width: 150px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/pVn6PAO.jpg">
     </p>
+
 
 ### B. 主题和时间安排
 
