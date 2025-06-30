@@ -1,0 +1,70 @@
+project:
+  type: book
+  output-dir: docs  # 输出目录, 生成的 HTML 文件会放在 docs 目录下
+
+book:
+  title: "2025系列公开课"
+  reader-mode: true 
+  author: "连享会"
+  date: today
+  date-format: iso
+#  lang: zh  # 不要设置这个，会导致很多问题
+  
+  sidebar:    # 侧边栏配置
+    title: "公开课"
+    logo: images/book-logo.png
+    logo-href: https://lianxhcn.github.io/open2025/
+    style: floating  #docked
+    search: true
+    tools:
+      - icon: github
+        href: https://github.com/lianxhcn/open2025
+
+  favicon: images/book-logo.png   # URL logo
+  site-url: https://lianxhcn.github.io/open2025/ # 主页地址, 否则点击右上角链接会乱码
+  editor: source    # 始终采用源代码模式编辑
+
+#----------------------- Chapters ---------------
+  chapters:
+
+    - index.qmd
+
+    - part: "**课程概览**"
+      chapters: 
+        - "body/0. 课程概览.md"
+        - "body/A. 报名和参与.md"
+        - "body/B. 课程缘起.md"
+    
+    - part: "**专题介绍**"
+      chapters: 
+        - "body/T1. Python：安装和环境配置.md"
+        - "body/T2. 工具变量：从 LATE 困境到 Shift-Share 争议.md"
+        - "body/T3. 生成式大语言模型在金融会计研究中的应用.md"
+        - "body/T4. 路径分析指南.md"
+        - "body/T5. AI 赋能微观调查数据清洗.md"
+      
+    - part: "**相关课程**"
+      chapters: 
+        - "body2/X1-2025暑期班.md"
+        - "body2/X2-社会网络分析.md"
+
+format:
+  html:
+    toc: true            # 启用目录
+    toc-depth: 3         # 三级以上 sections 才伸缩
+    theme: cosmo         # 可选：cosmo, flatly, litera, litera, yeti 等  主题模版
+    linestretch: 1.6          # 行间距   1.7   
+    fontsize: 11.5pt          # 字号
+    number-sections: false     # 自动章节编号
+    link-external-newwindow: true
+    highlight: true            # 代码高亮
+    highlight-style: atom-one  # 语法高亮, atom-one, breezy, github, tango, solarized-light
+    code-fold: false           # （可选）代码默认不折叠
+    code-line-numbers: false   # （可选）关闭行号
+    code-overflow: wrap        # 控制长代码的换行   
+    css: styles.css
+    callout-appearance: default        # 启用 callout 默认渲染样式
+    md-extensions:
+      - callout                        # 确保 markdown 支持 callout 块语法
+editor: visual
+
