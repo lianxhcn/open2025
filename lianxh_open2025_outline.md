@@ -27,19 +27,14 @@
   - **方式一**：扫码进群即可参与 (**温馨提示**：请勿重复进群，以保证大家都有机会参加)
 
     <p align="center">
-      <img 
-        src="https://s21.ax1x.com/2025/06/29/pVnyNkD.jpg" 
-        style="max-width: 155px;  width: auto; height: auto;  "
-      />
+            <img style="width: 150px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/pVnyNkD.jpg">
     </p>
+
 
   - **方式二**：关注公众号“君泉计量”，君泉计量的视频号同步直播
 
     <p align="center">
-      <img 
-        src="https://s21.ax1x.com/2025/06/29/pVn6PAO.jpg" 
-        style="max-width: 155px;  width: auto; height: auto;"
-      />
+            <img style="width: 150px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/pVn6PAO.jpg">
     </p>
 
 
@@ -62,13 +57,9 @@
 - 嘉宾：王烨文 (武汉大学) 
 - 时间：7 月 3 日 19:30-21:00
 
-<p align="center">
-  <img 
-    src="https://s21.ax1x.com/2025/06/29/pVnyJ0K.jpg" 
-    alt="image" 
-    style="max-width: 155px;  width: auto; height: auto;"
-  />
-</p>
+    <p align="center">
+            <img style="width: 150px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/pVnyJ0K.jpg">
+    </p>
 
 **王烨文**，武汉大学博士研究生，研究方向为公司金融。研究成果发表于 _Research in International Business and Finance_ 与 _Applied Economics_ 等期刊。曾多次承担连享会[暑期班](https://www.lianxh.cn/details/1604.html)、[论文班](https://www.lianxh.cn/details/1609.html)、[面板数据因果推断](https://www.lianxh.cn/details/1567.html)等课程的助教工作。
 
@@ -91,13 +82,9 @@
 - 嘉宾：雷诺 (新加坡国立大学) 
 - 时间：7 月 10 日 19:30-21:00
 
-<p align="center">
-  <img 
-    src="https://s21.ax1x.com/2025/06/29/pVnyGm6.png" 
-    alt="image" 
-    style="max-width: 155px;  width: auto; height: auto;"
-  />
-</p>
+    <p align="center">
+            <img style="width: 150px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/pVnyGm6.png">
+    </p>
 
 **雷诺**，新加坡国立大学博士研究生。研究方向为发展经济学。曾长期担任连享会[因果推断](https://www.lianxh.cn/details/1567.html)、[五一论文班](https://www.lianxh.cn/details/1553.html)、[计量和因果推断 · 强基班](https://www.lianxh.cn/details/1258.html)等课程的助教。
 
@@ -127,11 +114,7 @@
 - 时间：7 月 17 日 19:30-21:00
 
 <p align="center">
-  <img 
-    src="https://s21.ax1x.com/2025/06/29/pVny3Ox.jpg" 
-    alt="image" 
-    style="max-width: 155px;  width: auto; height: auto;"
-  />
+    <img style="width: 150px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/pVny3Ox.jpg">
 </p>
 
 **范思妤**，南京大学、香港城市大学联合培养博士研究生，研究方向为金融科技、供应链风险、企业文化。多次担任连享会 [暑期班](https://www.lianxh.cn/PX.html)、[因果推断](https://www.lianxh.cn/details/1567.html) 等专题等课程助教，
@@ -164,11 +147,7 @@
 - 时间：7 月 24 日 19:30-21:00
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/su1277159280/picgo/pic/ed63acd3779f1da2f068f12239ba06d.jpg" 
-    alt="image" 
-    style="max-width: 155px;  width: auto; height: auto;"
-  />
+    <img style="width: 150px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/ed63acd3779f1da2f068f12239ba06d.jpg">
 </p>
 
 **苏舜禹**，北京师范大学硕士研究生，研究兴趣为内幕交易、教育经济学等。成果发表于《Emerging Markets Finance and Trade》，曾担任连享会 [政策优化与机制分析专题班](https://www.lianxh.cn/details/1395.html) 助教。
@@ -190,11 +169,7 @@
 - 时间：7 月 31 日 19:30-21:00
 
 <p align="center">
-  <img 
-    src="https://s21.ax1x.com/2025/06/29/pVn69HK.jpg" 
-    alt="image" 
-    style="max-width: 155px;  width: auto; height: auto;"
-  />
+    <img style="width: 150px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/pVn69HK.jpg">
 </p>
 
 **颜国强**，东南大学博士研究生，研究方向为家庭与人口研究。相关成果发表于《Applied Economics》、《南京审计大学学报》等期刊，长期担任连享会 [高级班](https://www.lianxh.cn/details/1606.html)、[论文班](https://www.lianxh.cn/details/1609.html)、[因果推断](https://www.lianxh.cn/details/1567.html) 等专题等课程助教，具有丰富的数据清洗与实证研究经验。
