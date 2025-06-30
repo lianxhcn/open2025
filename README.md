@@ -13,7 +13,6 @@
   - **方式一**：扫码进群即可参与 (**温馨提示**：请勿重复进群，以保证大家都有机会参加)
 
     <p align="center">
-      <img 
         <img style="width: 150px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/pVnyNkD.jpg">
     </p>
 
@@ -21,7 +20,6 @@
   - **方式二**：关注公众号“君泉计量”，君泉计量的视频号同步直播
 
     <p align="center">
-      <img 
         <img style="width: 150px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/pVn6PAO.jpg">
     </p>
 
