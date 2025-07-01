@@ -40,8 +40,8 @@ book:
         - "body/T1. Python：安装和环境配置.md"
         - "body/T2. 工具变量：从 LATE 困境到 Shift-Share 争议.md"
         - "body/T3. 生成式大语言模型在金融会计研究中的应用.md"
-        - "body/T4. 路径分析指南.md"
-        - "body/T5. AI 赋能微观调查数据清洗.md"
+        - "body/T4. AI 赋能微观调查数据清洗：工具、策略与应用实践.md"
+        - "body/T5. 路径分析指南：中介、调节与有调节的中介.md"
       
     - part: "**相关课程**"
       chapters: 
